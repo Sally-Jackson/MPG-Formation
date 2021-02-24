@@ -1,0 +1,48 @@
+@font-face {/*police de titre*/
+    font-family: Exquisite; 
+    src: url("police/Exquisite-3K88.woff2"), url("police/Exquisite-3K88.woff");
+    format:("woff");
+    font-weight: 400;
+
+}
+
+body{
+    background-color:#05294F;
+    font-family: Roboto, sans-serif;
+    color: #E5E5E5;
+
+}
+h1{
+    font-family: Exquisite, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+nav {
+    display:inline-block;
+    border: solid 1px red;
+
+}
+ul{
+    list-style-type: none;
+    margin-left: 15px;
+}
+nav img{
+    height: 50px;
+    width: 50px;
+}
+.header{
+    width:1118px;
+    background-color: #12263D;
+    padding: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.character{
+    position: center;
+    height: 440px;
+    max-width: 220px;
+}
+

@@ -136,15 +136,12 @@ footer img{
     width: 0;
     border-top: 14.43px solid #eb9c34;
   }
- /* .triangle{
-    width: 0;
-    height: 0;
-    
-    border-top: 100px solid transparent;
-    border-right: 100px solid transparent;
-    border-bottom: 100px solid lightsalmon;
-    border-left: 100px solid transparent;
-    
-    transform: translateX(-100px) translateY(-100px) rotate(180deg);
-  } */
+    .triangle{
+        margin-top: 13px;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 15px 0 15px 50px;
+        border-color: transparent transparent transparent #007bff;
+  } 
   
